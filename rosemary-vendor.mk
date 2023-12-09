@@ -949,7 +949,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/rosemary/proprietary/vendor/lib/hw/vendor.mediatek.hardware.pq@2.13-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.mediatek.hardware.pq@2.13-impl.so \
     vendor/xiaomi/rosemary/proprietary/vendor/lib/hw/vendor.mediatek.hardware.videotelephony@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.mediatek.hardware.videotelephony@1.0-impl.so \
     vendor/xiaomi/rosemary/proprietary/vendor/lib/hw/vendor.xiaomi.hardware.micharge@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.xiaomi.hardware.micharge@1.0-impl.so \
-    vendor/xiaomi/rosemary/proprietary/vendor/lib/hw/vulkan.mt6785.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vulkan.mt6785.so \
     vendor/xiaomi/rosemary/proprietary/vendor/lib/imx355ofilm_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib/imx355ofilm_mipi_raw_IdxMgr.so \
     vendor/xiaomi/rosemary/proprietary/vendor/lib/imx355ofilm_mipi_raw_india_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib/imx355ofilm_mipi_raw_india_IdxMgr.so \
     vendor/xiaomi/rosemary/proprietary/vendor/lib/imx355ofilm_mipi_raw_india_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/imx355ofilm_mipi_raw_india_tuning.so \
@@ -1878,7 +1877,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/rosemary/proprietary/vendor/lib64/hw/vendor.mediatek.hardware.pq@2.13-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.mediatek.hardware.pq@2.13-impl.so \
     vendor/xiaomi/rosemary/proprietary/vendor/lib64/hw/vendor.mediatek.hardware.videotelephony@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.mediatek.hardware.videotelephony@1.0-impl.so \
     vendor/xiaomi/rosemary/proprietary/vendor/lib64/hw/vendor.xiaomi.hardware.micharge@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.xiaomi.hardware.micharge@1.0-impl.so \
-    vendor/xiaomi/rosemary/proprietary/vendor/lib64/hw/vulkan.mt6785.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vulkan.mt6785.so \
     vendor/xiaomi/rosemary/proprietary/vendor/lib64/imx355ofilm_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/imx355ofilm_mipi_raw_IdxMgr.so \
     vendor/xiaomi/rosemary/proprietary/vendor/lib64/imx355ofilm_mipi_raw_india_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/imx355ofilm_mipi_raw_india_IdxMgr.so \
     vendor/xiaomi/rosemary/proprietary/vendor/lib64/imx355ofilm_mipi_raw_india_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/imx355ofilm_mipi_raw_india_tuning.so \
